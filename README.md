@@ -1,1 +1,1 @@
-# sumo-stm32-f4-disco
+# sumo-stm32-f4-disco-cpp
